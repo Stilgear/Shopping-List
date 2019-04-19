@@ -1,7 +1,8 @@
 package fr.eni.shoppinglist.bo;
 
+/*COMMENTAIRES*/
 public class Item {
-
+	
 	private int id;
 	private int id_liste;
 	private String name;
